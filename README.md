@@ -16,6 +16,7 @@ The best way to use many of these projects is through the [slm](https://github.c
 # Components
 
 *  [Connectors](https://github.com/JITx-Inc/connectors) - Helpful connectors like USB, and terminal blocks, mapped to standard interfaces
+*  [FTDI](https://github.com/JITx-Inc/FTDI) - Circuits for FTDI components, including parts like the FT2232HL
 
 # Fabrication
 
