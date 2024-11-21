@@ -5,6 +5,7 @@ This is a collection of helpful code libraries for designing circuit boards with
 # Contents
 
 *  [How to Use](#how-to-use) - Instructions for using Packages
+*  [Circuits](#circuits) - Code for generating common circuits like filters, and power regulators
 *  [Components](#components) - Component Libraries, Generators, etc
 *  [Fabrication](#fabrication) - Stackups and Constraints for Fabricators
 *  [Libraries](#libraries) - Common utilities like curl
@@ -12,6 +13,9 @@ This is a collection of helpful code libraries for designing circuit boards with
 # How To Use
 
 The best way to use many of these projects is through the [slm](https://github.com/stanzaorg/slm) library manager. Each repository will include installation instructions
+
+# Circuits
+*  [Power Systems](https://github.com/JITx-Inc/power-systems) - Architectures and solvers for DC/DC power regulation, and power filters
 
 # Components
 
