@@ -21,6 +21,7 @@ The best way to use many of these projects is through the [slm](https://github.c
 
 *  [Connectors](https://github.com/JITx-Inc/connectors) - Helpful connectors like USB, and terminal blocks, mapped to standard interfaces
 *  [FTDI](https://github.com/JITx-Inc/FTDI) - Circuits for FTDI components, including parts like the FT2232HL
+*  [Microchip Networking](https://github.com/JITx-Inc/microchip-networking/tree/main) - Circuits for Microchip networking devices, including ethernet switches
 *  [TI-vreg](https://github.com/JITx-Inc/TI-vreg) - Voltage regulators from Texas Instruments
 
 # Fabrication
