@@ -63,3 +63,7 @@ debug = { git = "JITx-Inc/debug", version = "0.3.3" }
 *  [term-colors](https://github.com/StanzaOrg/term-colors) - Create Colored Text in the Commandline Terminal
 *  [maybe-utils](https://github.com/StanzaOrg/maybe-utils) - Tools for working with `Maybe<>` types
 *  [stanza-toml](https://github.com/StanzaOrg/stanza-toml) - Parse/Create [TOML](https://toml.io/en/) files/strings
+
+# Utilities
+
+* [jitx-emn-importer](https://github.com/JITx-Inc/jitx-emn-importer) - Import EMN files to code
